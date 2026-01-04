@@ -273,3 +273,4 @@
    🔒 auth.ozon.ru
 ДАННАЯ ПРОГРАММА СОЗДАНА ДЛЯ: РОДИТЕЛЕЙ УЧЕБНЫХ УЧЕРЕЖДЕНИЙ И ТД
 ТРЕБОБОВАНИЯ UBUNTU И САМЫЙ СВЕЖИЙ PYTHON
+ЗАПУСКАТЬ С РУТ/СУДО ПРАВАМИ
